@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Administrator",
+    "username": "admin",
+    "email": "admin@smkn1sigumpar.sch.id",
+    "password": "$2b$10$y9R399PALKzIYlRikw9myeWILj4MatHvQ3jzEHnyuTavKztiFsMSe",
+    "role": "admin",
+    "createdAt": "2025-03-20T10:00:00.000Z",
+    "updatedAt": "2025-03-20T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Tata Usaha",
+    "username": "tatausaha",
+    "email": "tatausaha@smkn1sigumpar.sch.id",
+    "password": "$2b$10$B1xFpEc3klaPvCIBcdRJK.ugr4ONcJJblQxr6g3Tt1U1ZQ3fe5ery",
+    "role": "tatausaha",
+    "createdAt": "2025-03-20T12:00:00.000Z",
+    "updatedAt": "2025-03-20T12:00:00.000Z"
+  }
+]
